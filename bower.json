@@ -1,0 +1,18 @@
+{
+  "name": "bookwriter",
+  "version": "0.0.0",
+  "authors": [
+    "reatkin2 <draemn03@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
